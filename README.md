@@ -7,6 +7,10 @@ Built with [Streamlit](https://streamlit.io/) + [OpenAI](https://platform.openai
 
 <img width="1453" height="811" alt="Image" src="https://github.com/user-attachments/assets/319191d2-0627-4976-b7d3-1a56200136c0" />
 
+<img width="1440" height="793" alt="Image" src="https://github.com/user-attachments/assets/b3a6a444-6059-4091-a1f6-897469222872" />
+
+<img width="1449" height="762" alt="Image" src="https://github.com/user-attachments/assets/5a6bf132-295e-491d-89e6-60ff13362d7a" />
+
 ## Features
 
 - **Ask questions in plain English** — "top 5 states by sales" gets turned into SQL and run
