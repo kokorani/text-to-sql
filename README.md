@@ -5,6 +5,8 @@ questions into read-only SQL, runs it against your database, and shows you the r
 
 Built with [Streamlit](https://streamlit.io/) + [OpenAI](https://platform.openai.com/).
 
+<img width="1453" height="811" alt="Image" src="https://github.com/user-attachments/assets/319191d2-0627-4976-b7d3-1a56200136c0" />
+
 ## Features
 
 - **Ask questions in plain English** — "top 5 states by sales" gets turned into SQL and run
