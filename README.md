@@ -1,8 +1,7 @@
 TextToSQL
 
-Ask questions about your MySQL database in plain English. TextToSQL turns natural-language
-questions into read-only SQL, runs it against your database, and shows you the results —
-with zero risk of accidentally modifying your data.
+Ask questions about your MySQL database in plain English. TextToSQL turns natural language
+questions into read-only SQL, runs it against your database, and shows you the results with zero risk of accidentally modifying your data.
 
 Built with [Streamlit](https://streamlit.io/) + [OpenAI](https://platform.openai.com/).
 
